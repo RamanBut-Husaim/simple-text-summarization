@@ -1,0 +1,13 @@
+[project]
+name = "simple-text-summarization"
+version = "2024.12.01"
+requires-python = ">=3.8"
+dependencies = ["lxml", "beautifulsoup4", "numpy", "nltk", "scikit-learn"]
+
+authors = [{ name = "Raman But-Husaim" }]
+
+readme = "README.md"
+license = { file = "LICENSE" }
+
+[project.urls]
+Repository = "https://github.com/RamanBut-Husaim/simple-text-summarization.git"
